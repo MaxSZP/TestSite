@@ -1,5 +1,5 @@
     <footer class="center">
-        Наш постоянный и неизменный для всего сайта FOOTER
+        <h2>Наш постоянный и неизменный для всего сайта FOOTER</h2>
     </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="vendor/jquery/jquery-3.1.1.min.js"></script>

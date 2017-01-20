@@ -1,4 +1,4 @@
-<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 padding-left-none padding-right-none">
+<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 	
 	<?php
 	// Количество символов текста новости, выводимых в новостях

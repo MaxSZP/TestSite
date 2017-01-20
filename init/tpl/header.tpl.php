@@ -22,6 +22,6 @@
     <header class="row">
         <a href="<?=ROOT?>" class="logo col-xs-3"><img alt="logo" src="<?=ROOT?>img/logo.jpg"></a>
         <div class="col-xs-9">
-        Наш неизменный постоянный для всего сайта хедер
+            <h2>Наш неизменный постоянный для всего сайта хедер</h2>
         </div>
     </header>
