@@ -1,0 +1,2 @@
+// ןנטלונ גûחמגא
+img_resize($new_tmp_name, $dir.$new_name1, $width, $height,  90, 0x051320, 0);

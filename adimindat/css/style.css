@@ -1,0 +1,208 @@
+/* CSS for Admin panel */
+ div.container-fluid {
+	padding-top: 70px;
+}
+
+header {
+	padding: 20px;
+}
+
+textarea {
+width: 100%;
+resize: vertical;
+}
+
+input[type=text] {
+width: 100%;
+}
+
+button.btn {
+white-space: normal;
+}
+
+/* Параметры для админ-панели Вопрос - Ответ */
+.adminfaq{
+padding: 20px;
+}
+
+.adminfaq-item{
+border: 2px solid #8BAAB5;
+margin-top: 5px;
+padding: 5px;
+
+}
+
+/* Параметры для админ-панели галереи */
+.admgallery{
+border: 3px solid #8BAAB5;
+padding: 10px;
+
+}
+
+.gallery-items {
+max-height: 800px;
+overflow-y: auto;
+
+/*border: 2px solid #99BD46;
+padding: 5px; */
+}
+
+.adm-gallery-item {
+border: 2px solid #99BD46;
+margin: 5px;
+padding: 5px;
+}
+
+.gallery-image  {
+border: 2px solid #99BD46;
+padding: 5px;
+}
+
+div.pic-item {
+border: 1px solid #99BD46;
+margin: 5px;
+padding: 5px 5px 5px 0px;
+}
+
+img.adm-gallery-pic {
+width: 185px;
+height: 139px;
+}
+
+/* Параметры для админ-панели Каталог */
+.adm-price{
+border: 3px solid #8BAAB5;
+padding: 10px;
+
+}
+
+.adm-category-items {
+max-height: 800px;
+overflow-y: auto;
+/* border: 2px solid #99BD46;
+padding: 5px; */
+}
+
+.adm-category-price {
+border: 2px solid #99BD46;
+margin: 5px;
+padding: 5px;
+}
+
+.adm-category-price  div {
+	padding: 0;
+	
+	
+}
+
+.adm-prices  {
+border: 2px solid #99BD46;
+padding: 5px;
+}
+
+div.adm-price-item {
+border: 1px solid #99BD46;
+margin: 5px;
+padding: 5px 5px 5px 0px;
+}
+
+div.price-picture img{
+width: 100%;
+}
+
+div.adm-price-item input[type=number] {
+width: 12em;
+}
+
+/* Параметры для админ-панели Новости */
+
+div.adminnews {
+padding: 20px;
+}
+
+div.adm-news-item{
+border: 2px solid #8BAAB5;
+margin-top: 5px;
+padding: 5px;
+}
+
+div.news-picture img {
+width: 100%;
+/*height: 139px; */
+}
+
+/* Параметры для админ-панели Статьи */
+
+div.adminarticles {
+padding: 20px;
+}
+
+div.adm-articles-item{
+border: 2px solid #8BAAB5;
+margin-top: 5px;
+padding: 5px;
+}
+
+div.articles-picture img {
+width: 100%;
+/*height: 139px; */
+}
+
+/* Параметры для админ-панели Конфигурация сайта */
+.adminconfig{
+padding: 20px;
+}
+
+.adminconfig-item{
+border: 2px solid #8BAAB5;
+margin-top: 5px;
+padding: 5px;
+
+}
+
+/* Параметры для админ-панели Категории продукции */
+.admincategory{
+padding: 20px;
+}
+
+.adm-category-item{
+border: 2px solid #8BAAB5;
+margin-top: 5px;
+padding: 5px;
+
+}
+
+/* Параметры для админ-панели Страницы */
+.adminpages{
+padding: 20px;
+}
+
+.adm-page-item{
+border: 2px solid #8BAAB5;
+margin-top: 5px;
+padding: 5px;
+
+}
+
+textextarea#mainBlock {
+	height: 20em;
+}
+
+
+/* Параметры для админ-панели Слайдер */
+
+div.adminslider {
+padding: 20px;
+}
+
+div.adm-slider-item{
+border: 2px solid #8BAAB5;
+margin-top: 5px;
+padding: 5px;
+}
+
+div.slider-picture img {
+width: 100%;
+/*height: 139px; */
+}
+
